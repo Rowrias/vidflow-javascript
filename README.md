@@ -4,7 +4,9 @@ Foi abordado:
 - E colocar barras de pesquisar no projeto.
 
 ## Comandos no terminal
+- npm install -g json-server
 - json-server --watch backend/videos.json
+
 
 ## Website
 - https://rowrias.github.io/vidflow-javascript/
