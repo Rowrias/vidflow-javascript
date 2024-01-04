@@ -1,5 +1,7 @@
 ## Curso de javascript desenvolvido com a Alura.
-- Consumindo e tratando dados de uma api.
+Foi abordado:
+- Consumir e tratar dados de uma api.
+- E colocar barras de pesquisar no projeto.
 
 ## Comandos no terminal
 - json-server --watch backend/videos.json
