@@ -1,3 +1,7 @@
-# 123
+## Curso de javascript desenvolvido com a Alura.
 
-## 123
+## Comandos no terminal
+- json-server --watch backend/videos.json
+
+## Website
+- https://rowrias.github.io/vidflow-javascript/
